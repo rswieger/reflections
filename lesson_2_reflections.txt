@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+"git init" turns the directory I am in at that time (I assume I could provide a different directory as an argument too) into a git repository. I need to do this so that I can start making and viewing git commits.
+
+
