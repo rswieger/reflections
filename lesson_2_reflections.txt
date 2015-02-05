@@ -11,3 +11,8 @@ The staging area is a sort of transitional waiting room between the working dire
 How can you use the staging area to make sure you have one commit per logical change?
 
 By adding each file to the staging area as changes are made and executing the commit once all files are added.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I wanted to make several changes before making an update available to others or if wanted to make several different versions of the software.
