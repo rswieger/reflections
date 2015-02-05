@@ -16,3 +16,8 @@ By adding each file to the staging area as changes are made and executing the co
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If I wanted to make several changes before making an update available to others or if wanted to make several different versions of the software.
+
+
+How do the diagrams help you visualize the branch structure?
+
+By presenting history in and parenthood in an easily viewable 2d format.
